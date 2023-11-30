@@ -153,3 +153,5 @@ while not õigesti:
         print("Peidetud arv on suurem.")
     else:
         print("Peidetud arv on väiksem.")
+
+#lõpp
